@@ -26,29 +26,19 @@ To run this project, you will need to have Node.js installed on your computer.
 
 git clone https://github.com/your-username/react-drawing-app.git
 
-markdown
-Copy code
-
 2. Install the dependencies:
 
 npm install
 
-markdown
-Copy code
 
 3. Start the development server:
 
 npm start
 
-vbnet
-Copy code
-
 4. Open the web app in your browser by navigating to:
 
 http://localhost:3000/
 
-css
-Copy code
 
 ## Usage
 
