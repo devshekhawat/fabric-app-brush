@@ -24,7 +24,7 @@ To run this project, you will need to have Node.js installed on your computer.
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/react-drawing-app.git
+    `git clone https://github.com/devshekhawat/fabric-app-brush.git`
 
 2. Install the dependencies:
 
@@ -33,11 +33,11 @@ npm install
 
 3. Start the development server:
 
-npm start
+    `npm start`
 
 4. Open the web app in your browser by navigating to:
 
-http://localhost:3000/
+   `http://localhost:3000/`
 
 
 ## Usage
